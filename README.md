@@ -36,9 +36,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
 </div>
 
-###
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="38644c32-b633-4963-a808-2976b60add27" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
+## Certifications
+- [![Certification Badge](https://www.credly.com/badges/38644c32-b633-4963-a808-2976b60add27/public_url)](https://www.credly.com/badges/38644c32-b633-4963-a808-2976b60add27)
+- **Machine Learning** - [View Badge](https://www.credly.com/badges/38644c32-b633-4963-a808-2976b60add27)
+###
 <br clear="both">
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Zeinebhajr.Zeinebhajr&left_color=aquamarine&right_color=antiquewhite"  />
