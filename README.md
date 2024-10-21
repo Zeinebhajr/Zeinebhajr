@@ -37,6 +37,7 @@
 </div>
 
 ###
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="38644c32-b633-4963-a808-2976b60add27" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 <br clear="both">
 
